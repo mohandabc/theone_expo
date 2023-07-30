@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88778871365",
+    "project_id": "theone-2",
+    "storage_bucket": "theone-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88778871365:android:89b6532c20796825f2492c",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88778871365-gdsvj4i86pgjnj5tqvbu94kakhiejbal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinT81tnTQRJ6Cjp-bf7H2whMHcrPF_24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88778871365-gdsvj4i86pgjnj5tqvbu94kakhiejbal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
